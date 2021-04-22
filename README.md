@@ -11,7 +11,7 @@ Using matlab function to sove the NHS open source data
 #### Run locally on command prompt
 + Run this command `git clone https://github.com/itsafo/unsteady_differential.git`
 + Go into the Unsteady_Differential folder
-+ Open with MatLab
++ o to the file location on your file explorer and open with MatLab
 
 
 #### Tech Stack
